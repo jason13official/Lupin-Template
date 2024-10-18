@@ -1,7 +1,6 @@
 package com.cursee.examplemod.mixin;
 
 import com.cursee.examplemod.Constants;
-import com.cursee.examplemod.ExampleMod;
 import com.cursee.examplemod.platform.Services;
 import net.minecraft.client.Minecraft;
 import org.spongepowered.asm.mixin.Mixin;
