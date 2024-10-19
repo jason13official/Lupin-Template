@@ -2,8 +2,6 @@ package com.cursee.examplemod.mixin;
 
 import com.cursee.examplemod.Constants;
 import com.cursee.examplemod.platform.Services;
-import com.cursee.monolib.core.MonoLibConfiguration;
-import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
